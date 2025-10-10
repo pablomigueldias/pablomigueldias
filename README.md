@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 Tecnologias que utilizo
+### Tecnologias que utilizo
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
-### 📫 Como me encontrar
+### Como me encontrar
 
 - 🌐 [Portfólio](https://pessoal-portifolio-m1ue.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-miguel-dias-ortiz/)
