@@ -1,4 +1,4 @@
-💻 Desenvolvedor Front-End | 🎨 Apaixonado por interfaces intuitivas
+💻 Desenvolvedor Front-End
 
 ---
 
