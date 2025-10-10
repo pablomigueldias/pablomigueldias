@@ -1,7 +1,3 @@
-## Olá
-
-# 👋 Olá! Eu sou o [Seu Nome]
-
 💻 Desenvolvedor Front-End | 🎨 Apaixonado por interfaces intuitivas
 
 ---
@@ -20,23 +16,10 @@
 
 </div>
 
----
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
-
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 - 🌐 [Portfólio](https://pessoal-portifolio-m1ue.vercel.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/seuusuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-miguel-dias-ortiz/)
 
 
 
