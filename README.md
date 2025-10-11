@@ -18,7 +18,7 @@
 
 ### Como me encontrar
 
-- 🌐 [Portfólio](https://pessoal-portifolio-m1ue.vercel.app/)
+- 🌐 [Portifólio](https://pessoal-portifolio-m1ue.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-miguel-dias-ortiz/)
 
 
