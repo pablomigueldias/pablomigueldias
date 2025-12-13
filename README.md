@@ -1,5 +1,5 @@
 
-**Engenheiro de Dados | Analista de Dados | Inteligência Artificial**  
+**Cientista de Dados |Engenheiro de Dados | Analista de Dados | Inteligência Artificial**  
 
 
 ## 🛠️ Tecnologias e Ferramentas  
