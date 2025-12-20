@@ -1,4 +1,6 @@
-**Cientista de Dados | Engenheiro de Dados | Analista de Dados | Inteligência Artificial** ## 🛠️ Tecnologias e Ferramentas  
+**Cientista de Dados | Engenheiro de Dados | Analista de Dados | Inteligência Artificial** ## 
+
+🛠️ Tecnologias e Ferramentas  
 
 ### 💾 **Bancos de Dados e Processamento de Dados**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
