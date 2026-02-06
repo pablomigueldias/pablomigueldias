@@ -1,4 +1,4 @@
-**Cientista de Dados | Engenheiro de Dados | Analista de Dados | Desenvolvedor Full-Stack** 
+**Desenvolvedor Full-Stack | Cientista de Dados | Engenheiro de Dados | Analista de Dados** 
 
 
 ## 🛠️ Tecnologias e Ferramentas  
