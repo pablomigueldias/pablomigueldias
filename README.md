@@ -76,5 +76,4 @@ unindo tecnologia, automação e visão analítica para gerar **soluções intel
 
 ### Como me encontrar
 
-- 🌐 [Empresa](https://www.reativesystems.com.br/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-miguel-dias-ortiz/)
